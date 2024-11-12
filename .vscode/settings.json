@@ -1,0 +1,7 @@
+{
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 90,
+    "workbench.editor.tabSizingFixedMaxWidth": 60,
+    "workbench.editor.tabSizingFixedMinWidth": 60,
+    "editor.formatOnSave": true
+}
